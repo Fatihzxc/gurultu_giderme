@@ -1,6 +1,6 @@
 # Gercek Zamanli Ses Isleme
  
-Amaç : EMG Sinyallerindeki gürültüyü Raspberry pi kullanarak yok etmek.
+**Amaç : EMG Sinyallerindeki gürültüyü Raspberry pi kullanarak yok etmek.**
 
 ### Kullanılanlar
 - Raspberry Pi
