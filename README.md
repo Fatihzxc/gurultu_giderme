@@ -2,11 +2,25 @@
  
 **Amaç : EMG Sinyallerindeki gürültüyü Raspberry pi kullanarak yok etmek.**
 
+### Yapilanlar
+- Matlab ile .mat uzantili sentetik emg verisi okundu.
+- Matlab ile sentetik veri ve Gaussian gürültülü halleri grafiğe basıldı.
+- Matlab ile veriler ses dosyasına yazıldı(Normalizasyon islemi yapildi).
+- Python ile ses verisi grafiğe basıldı ve grafik doğrulandı.
+
+### Yapilacaklar:
+- Gercek Zamanli olarak ses mikrofondan okunacak ve grafiğe bastırılacak.
+- Bastırılmış olan ses grafiğine benzer bir grafik elde edilmeye çalışılacak.
+- Gürültü giderme teknikleriyle sinyalden gürültü giderilecek.
+
 ### Kullanılanlar
 - Raspberry Pi
-- Mikrofon olarak PS3 Eye
-- Python3
-- python-sounddevice
+- Python
+- Matlab
+
+
+
+# Duzeltilecek Alan
 
 ## Python Dizini
 > - video.mp4 = Demo
